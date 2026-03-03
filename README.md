@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">I'm always open to collaborating on projects or talking about tech!<br>Email: phthezeroo@gmail.com</p>
+<p align="left">I'm always open to collaborating on projects or talking about tech!<br>Email: <a href="mailto:phthezeroo@gmail.com">phthezeroo@gmail.com</a></p>
 
 ###
 
@@ -74,10 +74,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phthezeroo-coder/phthezeroo-coder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phthezeroo-coder/phthezeroo-coder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phthezeroo-coder/phthezeroo-coder/output/pacman-contribution-graph.svg">
-</picture>
-
-###
